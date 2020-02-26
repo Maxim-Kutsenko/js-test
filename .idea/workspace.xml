@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c228f639-0972-4260-8639-da1a16f92d7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
@@ -36,11 +35,38 @@
       <option name="presentableId" value="Default" />
       <updated>1582662596572</updated>
       <workItem from="1582662598966" duration="4507000" />
-      <workItem from="1582712124883" duration="3116000" />
+      <workItem from="1582712124883" duration="3842000" />
+      <workItem from="1582721746930" duration="8042000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1582718719209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582718719209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="25" key="CommitChangelistDialog2" timestamp="1582718718176">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="425" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582718718176" />
+    <state x="579" y="173" key="FileChooserDialogImpl" timestamp="1582730999113">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="173" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1582730999113" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1582718731062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582718731062" />
   </component>
 </project>
